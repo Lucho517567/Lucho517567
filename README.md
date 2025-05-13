@@ -12,14 +12,19 @@
         <li>👑 &nbsp; Junior Python Developer </li>
         <li>🤔 &nbsp; Interested in Machine Learning and Robotics</li>
        </ul>
-       <p align="center">
-         <br>
-        <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Lucho517567_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-        </p>
-    </td>
-    <td>
-     <p align="center">
-        <img height="360em" src="https://github.com/Lucho517567/Lucho517567/blob/main/images/java-python-developer.png"/>
+      <p>
+       <a href="https://github.com/Lucho517567/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Lucho517567" />
+</a>
+<a href="https://github.com/Lucho517567/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Lucho517567&layout=compact&langs_count=8&card_width=320" />
+</a>
+<a href="https://github.com/Lucho517567/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lucho517567&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/Lucho517567/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lucho517567&repo=convoychat" />
+</a>
      </p>
     </td>
   </tr>
