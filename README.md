@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## I'm Luis David Abril Torres
-![](https://komarev.com/ghpvc/?username=your-lucho517567=0069b4)
+![](https://komarev.com/ghpvc/?username=Lucho517567&color=green)
 <table>
   <tr>
     <td>
