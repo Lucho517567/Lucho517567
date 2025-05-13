@@ -61,17 +61,17 @@
         <br>if you need further information or help.
       </p>
       <br>
-      <a href="https://www.instagram.com/taabannn/" target="_blank">
-      <img align="center" alt="Taban Soleymani | Instagram" width="30em" src="https://img.icons8.com/ios-glyphs/50/000000/instagram-new.png" />
+      <a href="https://www.instagram.com/luchiitoo_david/" target="_blank">
+      <img align="center" alt="Luis David | Instagram" width="30em" src="https://img.icons8.com/ios-glyphs/50/000000/instagram-new.png" />
       </a> &nbsp;&nbsp;
-      <a href="mailto:tabansly78@gmail.com" >
-      <img align="center" alt="Taban Soleymani | Gmail" width="30em" src="https://img.icons8.com/ios-glyphs/50/000000/gmail.png" />
+      <a href="mailto:luis.abril517@gmail.com" >
+      <img align="center" alt="Luis David | Gmail" width="30em" src="https://img.icons8.com/ios-glyphs/50/000000/gmail.png" />
       </a> &nbsp;&nbsp;
-      <a href="https://join.skype.com/invite/oJPb3eoBcLa3" >
-      <img align="center" alt="Taban Soleymani | Skype" width="30em" src="https://img.icons8.com/ios-glyphs/50/000000/skype.png" />
+      <a href="https://teams.live.com/meet/931010073683?p=yKDUlFWsQ0yn8Pc6mO" >
+      <img align="center" alt="Luis David | Skype" width="30em" src="https://img.icons8.com/ios-glyphs/50/000000/skype.png" />
       </a> &nbsp;&nbsp;
-      <a href="https://www.linkedin.com/in/TabanSoleymani/" >
-      <img align="center" alt="Taban Soleymani | LinkedIn" width="30em" src="https://img.icons8.com/ios-glyphs/50/000000/linkedin.png" />
+      <a href="https://www.linkedin.com/in/luis-david-abril-torres-8a095a26a/" >
+      <img align="center" alt="Luis David | LinkedIn" width="30em" src="https://img.icons8.com/ios-glyphs/50/000000/linkedin.png" />
       </a> &nbsp;&nbsp;
       <br>
     </div>
@@ -79,8 +79,3 @@
   </tr>
 </table>
 
-------
-
-Credit: [Taabannn](https://github.com/Taabannn)
-
-Last Edited on: 07/08/2022
