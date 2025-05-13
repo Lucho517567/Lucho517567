@@ -14,12 +14,12 @@
        </ul>
        <p align="center">
          <br>
-        <img height="150em" src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Lucho517567=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)"/>
+        <img height="150em" src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucho517567)](https://github.com/anuraghazra/github-readme-stats)"/>
         </p>
     </td>
     <td>
      <p align="center">
-        <img height="360em" src="https://github.com/Taabannn/Taabannn/blob/main/images/java-python-developer.png"/>
+        <img height="360em" src="https://github.com/Lucho517567/Lucho517567/blob/main/images/java-python-developer.png"/>
      </p>
     </td>
   </tr>
